@@ -34,5 +34,9 @@ The dashboard provides a detailed visualization of COVID-19 trends, enabling use
 2. Geographical Spread:Map visualizations display COVID-19 cases by region, highlighting heavily impacted areas.
 3. Recovery vs. Fatality Rates:Bar charts compare recovery and fatality rates across countries to identify relative pandemic responses.
 4. Regional Comparisons:Metrics grouped by WHO Region to analyze regional trends and strategies.
+
+# Dashboard
+![Screenshot 2024-12-21 230208](https://github.com/user-attachments/assets/f280f897-a276-4bd6-a0dd-97e72204bb11)
+
     
 
