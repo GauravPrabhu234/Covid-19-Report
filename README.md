@@ -7,11 +7,16 @@ The COVID-19 pandemic has significantly impacted global health, economies, and d
 The dataset includes the following key columns:
 
 1.Province/State: Sub-region or state (nullable for many records).
+
 2. Country/Region: Country where the data is recorded.
+
 3. Lat and Long: Geographical coordinates of the region.
+   
 4. Date: Date of the record (formatted as a string).
-5. Confirmed, Deaths, Recovered, Active: Metrics indicating the number of COVID-19 cases, fatalities, recoveries, and active cases.
-6. WHO Region: Regional grouping by the World Health Organization.
+   
+6. Confirmed, Deaths, Recovered, Active: Metrics indicating the number of COVID-19 cases, fatalities, recoveries, and active cases.
+   
+7. WHO Region: Regional grouping by the World Health Organization.
 
 This structured dataset provides a comprehensive overview of the COVID-19 pandemic globally, broken down by date and region. 
 
